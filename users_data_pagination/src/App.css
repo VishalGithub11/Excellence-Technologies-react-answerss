@@ -1,0 +1,17 @@
+.App {
+  text-align: center;
+}
+
+.profile {
+  border-radius: 50%;
+}
+
+.table td {
+  vertical-align: middle;
+}
+.table th {
+  vertical-align: middle;
+}
+.page-link:hover {
+cursor: pointer;
+}
